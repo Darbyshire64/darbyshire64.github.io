@@ -2,7 +2,7 @@
       display: inline-block;
       width: 150px;
       height: 25px;
-      background-color: dodgerblue;
+      background-color: RoyalBlue;
       border-radius: 10px;
       margin: 10px;
       text-align: center;
@@ -15,7 +15,7 @@
             display: inline-block;
             width: 170px;
             height: 25px;
-            background-color: dodgerblue;
+            background-color: RoyalBlue;
             border-radius: 10px;
             margin: 10px;
             text-align: center;
@@ -33,7 +33,7 @@
       animation: bounce 2s infinite ease-in-out;
       color: white;
       cursor: pointer;
-      background-color: dodgerblue;
+      background-color: Gray;
       border-radius: 10px;
       padding: 1rem;
     }
@@ -53,7 +53,7 @@
       font-weight: small;
       animation: bounce 2s infinite ease-in-out;
       color: white;
-      background-color: dodgerblue;
+      background-color: RoyalBlye;
       border-radius: 10px;
       padding: 1rem;
     }
