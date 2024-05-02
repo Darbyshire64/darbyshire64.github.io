@@ -2,7 +2,7 @@
       display: inline-block;
       width: 150px;
       height: 25px;
-      background-color: CornfloweBlue;
+      background-color: CornflowerBlue;
       border-radius: 10px;
       margin: 10px;
       text-align: center;
@@ -15,7 +15,7 @@
             display: inline-block;
             width: 170px;
             height: 25px;
-            background-color: CornfloweBlue;
+            background-color: CornflowerBlue;
             border-radius: 10px;
             margin: 10px;
             text-align: center;
@@ -40,7 +40,7 @@
 
     /* Set the background color to black */
     body {
-      background-color: black;
+      background-color: DogerBlue;
       font-family: 'Lato';
       font-size: 22px;
     }
