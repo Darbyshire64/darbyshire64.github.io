@@ -42,15 +42,6 @@
       font-family: 'Lato';
       font-size: 22px;
     }
-    html, body {
-      padding: 0;
-      height: 100%;
-      display: grid;
-      place-content: center;
-      background: #0A0A27;
-      background-color: #18181d;
-      font-size: 22px;
-    }
     .centered-paragraph {
       text-align: center;
       margin: 1rem auto 2rem;
@@ -69,6 +60,19 @@
       animation: bounce 2s infinite ease-in-out;
       color: white;
       background-color: SteelBlue;
+      border-radius: 10px;
+      padding: 1rem;
+      cursor: pointer;
+    }
+.centered-button {
+      text-align: center;
+      margin: 1rem auto 2rem;
+      max-width: 800px;
+      font-weight: large;
+      text: bold;
+      animation: bounce 2s infinite ease-in-out;
+      color: white;
+      background-color: DodgerBlue;
       border-radius: 10px;
       padding: 1rem;
       cursor: pointer;
